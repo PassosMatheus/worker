@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\Worker\\Worker\\Worker.csproj": {}
+    "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\worker\\Worker\\Worker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\Worker\\Worker\\Worker.csproj": {
+    "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\worker\\Worker\\Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\Worker\\Worker\\Worker.csproj",
+        "projectUniqueName": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\worker\\Worker\\Worker.csproj",
         "projectName": "Worker",
-        "projectPath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\Worker\\Worker\\Worker.csproj",
+        "projectPath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\worker\\Worker\\Worker.csproj",
         "packagesPath": "C:\\Users\\EG0265\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\Worker\\Worker\\obj\\",
         "projectStyle": "PackageReference",

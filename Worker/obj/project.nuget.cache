@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PLPTFRk3EsFv4xwE1RmW3Nke+4A3YNYTKKm5TUnUPwOcmH7CKNhXt+t7BkRLvav4vDmu4C7g0hvbIHmqueeCsA==",
+  "dgSpecHash": "2qhsYmhQWUlL09/8Q6R+LXlAXn8/EAw7/2TuOLBbiGY73fbgVSL2JA4dyA38rfUJbcX6E6b0+9bRi9KIjplKtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\Worker\\Worker\\Worker.csproj",
+  "projectFilePath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\worker\\Worker\\Worker.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

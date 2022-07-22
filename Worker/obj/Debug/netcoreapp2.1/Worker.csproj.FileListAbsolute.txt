@@ -1,0 +1,13 @@
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\bin\Debug\netcoreapp2.1\Worker.deps.json
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.json
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\bin\Debug\netcoreapp2.1\Worker.runtimeconfig.dev.json
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\bin\Debug\netcoreapp2.1\Worker.dll
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\bin\Debug\netcoreapp2.1\Worker.pdb
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.csproj.AssemblyReference.cache
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfoInputs.cache
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.AssemblyInfo.cs
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.csproj.CoreCompileInputs.cache
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.dll
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.pdb
+C:\Users\EG0265\Desktop\Particular\Projetos\C#\worker\Worker\obj\Debug\netcoreapp2.1\Worker.genruntimeconfig.cache
