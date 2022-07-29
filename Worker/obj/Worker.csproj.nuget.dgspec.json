@@ -11,7 +11,7 @@
         "projectName": "Worker",
         "projectPath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\worker\\Worker\\Worker.csproj",
         "packagesPath": "C:\\Users\\EG0265\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\Worker\\Worker\\obj\\",
+        "outputPath": "C:\\Users\\EG0265\\Desktop\\Particular\\Projetos\\C#\\worker\\Worker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

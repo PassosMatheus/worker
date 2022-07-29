@@ -1,8 +1,8 @@
 ﻿namespace Worker.Entities
 {
-    internal class Departament
+     class Departament
     {
-        public string Name { get; set }
+        public string Name { get; set; }
 
         public Departament()
         {
